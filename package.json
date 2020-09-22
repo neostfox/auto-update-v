@@ -1,0 +1,28 @@
+{
+  "name": "autoupdateversion",
+  "version": "1.0.3",
+  "description": "auto update version when run script",
+  "main": "index.js",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neostfox/auto-update-v.git"
+  },
+  "keywords": [
+    "update",
+    "package",
+    "version"
+  ],
+  "author": "neo.st.fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neostfox/auto-update-v/issues"
+  },
+  "homepage": "https://github.com/neostfox/auto-update-v#readme",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
